@@ -1,0 +1,37 @@
+{
+  "images": [
+    {"src": "images/gallery/96d320aae484fcd9dbc5a34f0ac98eae_1759122712233.jpg", "alt": "Сучасний навіс з терасою", "category": "group-1"},
+    {"src": "images/gallery/0c799e09e775aad95af5d04918f23df9 (1)_1759122712269.jpg", "alt": "Стильний навіс-альтанка", "category": "group-1"},
+    {"src": "images/gallery/0d64bfeef82e9f2a0b5c7f28cd037444_1759122712288.jpg", "alt": "Навіс з деревом та металом", "category": "group-1"},
+    {"src": "images/gallery/9280f6d0c5efc8f58957b06f5fd91ced_1759122712309.jpg", "alt": "Елітний навіс з підсвічуванням", "category": "group-1"},
+    {"src": "images/gallery/1afe51c814c2640e42dc82c3e944e937_1759122712354.jpg", "alt": "Комбінований навіс-гараж", "category": "group-1"},
+    {"src": "images/gallery/a420387ee86cb97d761f002336675e9e_1759122712404.jpg", "alt": "Житловий будинок з навісом", "category": "group-1"},
+    {"src": "images/gallery/84f5eed0ba6b6e01a8034c9ecf7005e4_1759122712472.jpg", "alt": "Сучасний дім з інтегрованим навісом", "category": "group-1"},
+    {"src": "images/gallery/0fca8b72f8894052a8606ad622643e27_1759122712559.jpg", "alt": "Багатосекційний навіс", "category": "group-1"},
+    {"src": "images/gallery/3c54d99abf71a3531dc243d1f6b6ac2c_1759138602522.jpg", "alt": "Дерев'яний навіс з ламелями", "category": "group-1"},
+    {"src": "images/gallery/8acdb20ab5919359d5899762de0f8abe_1759138602546.jpg", "alt": "Сучасний білий навіс", "category": "group-1"},
+    {"src": "images/gallery/fd7c0a00fd240e33408c4714a53105e2_1759138602572.jpg", "alt": "Сіро-дерев'яний навіс", "category": "group-1"},
+    {"src": "images/gallery/b8a21396ae6ce68afc46d94d854490b5_1759138602610.jpg", "alt": "Навіс з решітчатими стінками", "category": "group-1"},
+    {"src": "images/gallery/bcc7bee56b6c99557f33e14bd0a48bee_1759138602670.jpg", "alt": "Навіс з місцем для зберігання", "category": "group-1"},
+    {"src": "images/gallery/5e6faa383eedd008ab793470228a8520_1759138602688.jpg", "alt": "Преміум автонавіс", "category": "group-1"},
+    {"src": "images/gallery/IMG-b20c8cce51473ca4d02653d66275c728-V_1759138602708.jpg", "alt": "Навіс з полікарбонату біля будинку", "category": "group-1"},
+    {"src": "images/gallery/IMG-4c47bdf67b892a814e39d8a9c13b57c2-V_1759138602727.jpg", "alt": "Арочний навіс з полікарбонату", "category": "group-1"},
+    {"src": "images/gallery/FB_IMG_1722548780386_1759138602744.jpg", "alt": "Навіс з полікарбонату в саду", "category": "group-1"},
+    {"src": "images/gallery/IMG-20230906-WA0001_1759138602796.jpg", "alt": "Сучасний автонавіс", "category": "group-1"},
+    {"src": "images/gallery/IMG-20230906-WA0000_1759138602812.jpg", "alt": "Великий автонавіс", "category": "group-1"},
+    
+    {"src": "images/gallery/e73d05497c4a66671fe9a338d6ff30bb_1759122712443.jpg", "alt": "Триместний гараж", "category": "group-2"},
+    {"src": "images/gallery/6b5b74075ce10943635ed288ebc5fe0b (1)_1759122712535.jpg", "alt": "Двоповерховий гараж-майстерня", "category": "group-2"},
+    
+    {"src": "images/gallery/DSCN2228-1-min_1759122712204.png", "alt": "Промисловий ангар синього кольору", "category": "group-3"},
+    {"src": "images/gallery/0bf6adb0ee7146cb508c0830ce16cc1d (1)_1759122712332.jpg", "alt": "Сучасний промисловий ангар", "category": "group-3"},
+    {"src": "images/gallery/1736966389777_1759122712376.jpg", "alt": "Великий ангар з автоматичними воротами", "category": "group-3"},
+    {"src": "images/gallery/8dd0a26da302ef4c86feb06014aa7bbb (1)_1759122712507.jpg", "alt": "Промисловий склад з широкими воротами", "category": "group-3"},
+    {"src": "images/gallery/1736966389777_1759138602475.jpg", "alt": "Темний ангар з воротами", "category": "group-3"},
+    {"src": "images/gallery/34b6a15911e3b2e8f269a4f99895efd6_1759138602591.jpg", "alt": "Сучасне промислове приміщення", "category": "group-3"},
+    {"src": "images/gallery/75ad8e7a7f7eeb99448abd041591f087_1759138602631.jpg", "alt": "Великий металевий ангар", "category": "group-3"},
+    {"src": "images/gallery/9760aa2b6d0d483eb511dc547f104b0b_1759138602651.jpg", "alt": "Ангар з великими воротами", "category": "group-3"},
+    {"src": "images/gallery/IMG_20240227_170735_023_1759138602761.jpg", "alt": "Металевий гараж", "category": "group-3"},
+    {"src": "images/gallery/IMG_20240227_170756_817_1759138602779.jpg", "alt": "Складське приміщення", "category": "group-3"}
+  ]
+}
